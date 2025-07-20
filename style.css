@@ -10,6 +10,15 @@ body{
     justify-content: center;
     align-items: center;
     background-color: rgb(49, 46, 195);
+    color: white;
+    flex-direction: column;
+    background-color: black;
+}
+
+h1{
+    font-size:2.9rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 15px;
 }
 
 #box{
@@ -23,5 +32,6 @@ body{
     color: white;
     background-color: rgb(236, 162, 50);
     gap: 1rem;
+    font-size:xx-large;
 }
 
